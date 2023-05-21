@@ -1,0 +1,46 @@
+
+# Maria's Feed #
+
+**Patrick Stewart**
+Make it so!
+1024x <3
+--------------------------------------------------
+**Aaron Moss**
+Welcome to CS 305!
+50x <3
+--------------------------------------------------
+**Aaron Moss**
+I love data structures!
+25x <3
+--------------------------------------------------
+**Aaron Moss**
+Java is fun!
+5x <3
+--------------------------------------------------
+**James Hall**
+Can I get some help with arrays?
+5x <3
+--------------------------------------------------
+
+# James' Feed #
+
+**Aaron Moss**
+Welcome to CS 305!
+50x <3
+--------------------------------------------------
+**Aaron Moss**
+I love data structures!
+25x <3
+--------------------------------------------------
+**Jane Austen**
+It is a truth universally acknowledged...
+20x <3
+--------------------------------------------------
+**Maria Nieto**
+Is Dr. Moss always so enthusiastic?
+16x <3
+--------------------------------------------------
+**Aaron Moss**
+Java is fun!
+5x <3
+--------------------------------------------------
